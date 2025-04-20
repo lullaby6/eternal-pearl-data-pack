@@ -22,10 +22,7 @@
                 "minecraft:custom_data": {
                   "eternal_pearl": true
                 },
-                "minecraft:custom_name": {
-                  "text": "Eternal Pearl",
-                  "italic": false
-                },
+                "minecraft:custom_name": "{\"text\":\"Eternal Pearl\",\"italic\": false}",
                 "minecraft:use_remainder": {
                   "id": "minecraft:command_block",
                   "components": {
@@ -37,10 +34,7 @@
                     "minecraft:custom_data": {
                       "eternal_pearl.replace": true
                     },
-                    "minecraft:custom_name": {
-                      "text": "Eternal Pearl",
-                      "italic": false
-                    }
+                    "minecraft:custom_name": "{\"text\":\"Eternal Pearl\",\"italic\": false}"
                   }
                 }
               }
