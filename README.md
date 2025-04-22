@@ -23,10 +23,6 @@ Give:
 /loot give @s loot eternal_pearl:eternal_pearl
 ```
 
-## 👾 Bugs/Issues
-
-Please report any problem/bug/issues in the [Discord Server](https://discord.gg/5UdcDa5xNC).
-
 ## 🪪 License
 
-[MIT](https://github.com/lullaby6/eternal-pearl-data-pack/blob/main/LICENSE)
+[Limited Embed License v1.0](https://github.com/lullaby6/eternal-pearl-data-pack/blob/main/LICENSE)
