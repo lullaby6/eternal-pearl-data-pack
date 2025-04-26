@@ -3,7 +3,7 @@
 [![Latest](https://img.shields.io/github/v/release/lullaby6/eternal-pearl-data-pack?color=blueviolet&logo=github)](https://github.com/lullaby6/eternal-pearl-data-pack/releases)
 [![Discord](https://img.shields.io/discord/1327308441324097681?label=discord&color=blue&logo=discord)](https://discord.gg/5UdcDa5xNC)
 [![Modrinth](https://img.shields.io/modrinth/dt/eternal-pearl?label=modrinth&logo=modrinth)](https://modrinth.com/datapack/eternal-parl)
-[![License](https://img.shields.io/badge/license-mit-green)](https://github.com/lullaby6/eternal-pearl-data-pack/blob/main/LICENSE)
+[![License](https://img.shields.io/github/license/lullaby6/eternal-pearl-data-pack)](https://github.com/lullaby6/eternal-pearl-data-pack/blob/main/LICENSE)
 [![Issues](https://img.shields.io/github/issues/lullaby6/eternal-pearl-data-pack?color=orange&logo=github)](https://github.com/lullaby6/eternal-pearl-data-pack/issues)
 [![Code Size](https://img.shields.io/github/languages/code-size/lullaby6/eternal-pearl-data-pack?color=purple&logoColor=white)](https://github.com/lullaby6/eternal-pearl-data-pack)
 [![Repo Size](https://img.shields.io/github/repo-size/lullaby6/eternal-pearl-data-pack?logo=dropbox&color=red)](https://github.com/lullaby6/eternal-pearl-data-pack)
@@ -25,4 +25,4 @@ Give:
 
 ## 🪪 License
 
-[AGPLv3](https://github.com/lullaby6/eternal-pearl-data-pack/blob/main/LICENSE)
+[AGPL-3.0-or-later](https://github.com/lullaby6/eternal-pearl-data-pack/blob/main/LICENSE)
